@@ -8,7 +8,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "LOG_MSG": {
       "description": "Show whatsapp msgs in log",
@@ -28,7 +28,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_1779c785cecc0140cbb46cd983900b6a56"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
